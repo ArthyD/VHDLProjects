@@ -18,43 +18,43 @@ This project provides a functionnal model and a RTL model implementing the RISC-
 * lh 
 * lhu 
 * lw 
--- Store instruction --
+__Store instruction__
 * sb 
 * sh 
 * w 
--- Arithmetic instruction --
+__Arithmetic instruction__
 * add 
 * sub 
 * addi 
--- Special arithmetic load move --
+__Special arithmetic load move__
 * lui 
 * auipc 
--- Logic instructions --
+__Logic instructions__
 * xor 
 * or 
 * and 
 * xori 
 * ori 
 * andi 
--- Shift instruction --
+__Shift instruction__
 * sll 
 * srl 
 * sra 
 * slli 
 * srli :
 * srai 
--- Compare instruction --
+__Compare instruction__
 * slt 
 * sltu 
 * slti 
 * sltiu 
--- Branch instruction --
+__Branch instruction__
 * beq 
 * bne 
 * blt 
 * bge 
 * bltu 
 * bgeu 
--- Jump instruction --
+__Jump instruction__
 * jal 
 * jalr
