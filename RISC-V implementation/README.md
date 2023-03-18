@@ -2,8 +2,9 @@
 
 This student project is a RISC-V simple implementation. Two models have been designed : a functional model and a RTL model.
 
-| :warning: This project is not finalized and is nos working          |
-|:--------------------------------------------------------------------|
+> **Warning**
+> This project is not finalized and is not working
+
 
 
 Here are the instructions implemented :
